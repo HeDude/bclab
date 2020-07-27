@@ -1,4 +1,3 @@
 <?php
-header("Location: https://blockchain-lab-drenthe.github.io/");
-echo "Website of the Blockchain Lab Drenthe";
+header("Location: https://www.bcld.nl");
 exit(1);
